@@ -3,7 +3,7 @@
 
 ## Overview
 
-The Course Management System is a comprehensive solution for managing courses, student enrollments, grades, and faculty assignments. It streamlines administrative processes, provides role-based access control, and generates automated reports for enhanced decision-making.
+Claire-University Course Management System makes handling courses, students, and faculty simple and efficient. It helps universities keep track of enrollments, assign teachers to classes, record grades, and generate reports all in one place. With secure logins for admins, faculty, and students, everyone gets access to the right tools they need. Whether it's managing course registrations, checking student progress, or organizing faculty schedules, this system takes the stress out of academic administration and keeps everything running smoothly.
 
 ## Features
 
